@@ -2,5 +2,5 @@
 
 Chechout out Docker + Kafka local sandbox ⬇️
 
-[![]()](https://github.com/annstriganova/guidelines/kafka/howto.md)
+[![](./img/kafka_docker.png)](https://github.com/annstriganova/guidelines/kafka/howto.md)
 
